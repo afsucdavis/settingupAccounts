@@ -1686,8 +1686,9 @@
       <slidetext slideid="5obfQIbbLi9.6H8g7JlJvjX" slidebank="false" type="slide"> v135eix      %project.slidenumber% of %project.totalslides%</slidetext>
       <slidetext slideid="5obfQIbbLi9.6rYmDdbomXv" slidebank="false" type="slide">    v135car %project.slidenumber% of %project.totalslides% click to learn about account roles and responsibilities</slidetext>
       <slidetext slideid="5obfQIbbLi9.5sLojBl41fC" slidebank="false" type="slide">    %project.slidenumber% of %project.totalslides%</slidetext>
-      <slidetext slideid="5obfQIbbLi9.6WSz7tfOZeN" slidebank="false" type="slide">           </slidetext>
+      <slidetext slideid="5obfQIbbLi9.6WSz7tfOZeN" slidebank="false" type="slide">            %project.slidenumber% of %project.totalslides%</slidetext>
       <slidetext slideid="5obfQIbbLi9.67qxHhAmACq" slidebank="false" type="slide"> %project.slidenumber% of %project.totalslides%</slidetext>
+      <slidetext slideid="5obfQIbbLi9.6YxFuGNxn6z" slidebank="false" type="slide"> %project.slidenumber% of %project.totalslides%</slidetext>
       <slidetext slideid="5obfQIbbLi9.5foEydX4hQg" slidebank="false" type="slide">  completing the account document (contracts and grants) %project.slidenumber% of %project.totalslides%</slidetext>
       <slidetext slideid="5obfQIbbLi9.5jkIQJtcLBj" slidebank="false" type="slide">        cga       award                       %project.slidenumber% of %project.totalslides%</slidetext>
       <slidetext slideid="5obfQIbbLi9.6HM5eT2GOZr" slidebank="false" type="slide">  %project.slidenumber% of %project.totalslides%</slidetext>
@@ -1756,7 +1757,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text=" Welcome to the Setting Up Accounts in KFS module.&amp;#xA;"&gt;
+      &lt;Span Text="  Welcome to the Setting Up Accounts in KFS module.&amp;#xA;"&gt;
         &lt;Style FontFamily="Calibri" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,00" Elevation="Normal" DisplayCase="AsIs" LinkColor="dk1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -2502,7 +2503,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Let’s review a few of the important attributes of an account in more detail now, beginning with the Organization Code." /&gt;
+      &lt;Span Text="Let’s review a few of the important attributes of an account in more detail now." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
